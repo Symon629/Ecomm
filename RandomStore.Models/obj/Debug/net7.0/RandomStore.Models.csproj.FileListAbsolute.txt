@@ -1,0 +1,14 @@
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.Models\bin\Debug\net7.0\RandomStore.Models.deps.json
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.Models\bin\Debug\net7.0\RandomStore.Models.runtimeconfig.json
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.Models\bin\Debug\net7.0\RandomStore.Models.dll
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.Models\bin\Debug\net7.0\RandomStore.Models.pdb
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.Models\obj\Debug\net7.0\RandomStore.Models.csproj.AssemblyReference.cache
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.Models\obj\Debug\net7.0\RandomStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.Models\obj\Debug\net7.0\RandomStore.Models.AssemblyInfoInputs.cache
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.Models\obj\Debug\net7.0\RandomStore.Models.AssemblyInfo.cs
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.Models\obj\Debug\net7.0\RandomStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.Models\obj\Debug\net7.0\RandomStore.Models.dll
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.Models\obj\Debug\net7.0\refint\RandomStore.Models.dll
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.Models\obj\Debug\net7.0\RandomStore.Models.pdb
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.Models\obj\Debug\net7.0\RandomStore.Models.genruntimeconfig.cache
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.Models\obj\Debug\net7.0\ref\RandomStore.Models.dll

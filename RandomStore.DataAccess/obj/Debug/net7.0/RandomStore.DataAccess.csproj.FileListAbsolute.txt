@@ -1,0 +1,17 @@
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\obj\Debug\net7.0\RandomStore.DataAccess.csproj.AssemblyReference.cache
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\obj\Debug\net7.0\RandomStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\obj\Debug\net7.0\RandomStore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\obj\Debug\net7.0\RandomStore.DataAccess.AssemblyInfo.cs
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\obj\Debug\net7.0\RandomStore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\bin\Debug\net7.0\RandomStore.DataAccess.deps.json
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\bin\Debug\net7.0\RandomStore.DataAccess.runtimeconfig.json
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\bin\Debug\net7.0\RandomStore.DataAccess.dll
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\bin\Debug\net7.0\RandomStore.DataAccess.pdb
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\bin\Debug\net7.0\RandomStore.Models.dll
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\bin\Debug\net7.0\RandomStore.Models.pdb
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\obj\Debug\net7.0\RandomStore.DataAccess.csproj.CopyComplete
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\obj\Debug\net7.0\RandomStore.DataAccess.dll
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\obj\Debug\net7.0\refint\RandomStore.DataAccess.dll
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\obj\Debug\net7.0\RandomStore.DataAccess.pdb
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\obj\Debug\net7.0\RandomStore.DataAccess.genruntimeconfig.cache
+C:\Users\symon\OneDrive\1.1 Projects\1. Asp.net\RandomStore\RandomStore.DataAccess\obj\Debug\net7.0\ref\RandomStore.DataAccess.dll
