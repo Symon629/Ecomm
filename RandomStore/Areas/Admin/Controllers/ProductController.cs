@@ -20,7 +20,7 @@ namespace RandomStore.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            List<Product> allProducts = _unitOfWork.Product.GetAll().ToList();
+            List<Product> allProducts = _unitOfWork.Product.GetAll(includeProperties:"Category").ToList();
             // How can we convert an IEnumerable of Cateoires to an IEnumebarable 
             // of selectList Item, we do that using projections.
 
@@ -79,13 +79,32 @@ namespace RandomStore.Areas.Admin.Controllers
                     // 
                     string fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
                     string productPath = Path.Combine(wwwRootPath, @"images\product");
+                    if (!string.IsNullOrEmpty(productVM.Product.ImageUrl)) {
+                        // Delete the old image
+                        // As we have a forwared slash in our ImageUrl field in the database and wewill have to trim that. 
+                        var oldImagePath = Path.Combine(wwwRootPath, productVM.Product.ImageUrl.TrimStart('\\'));
+                        if (System.IO.File.Exists(oldImagePath)) {
+                            System.IO.File.Delete(oldImagePath);
+                                }
+
+               
+                    }
 
                     using (var fileStream = new FileStream(Path.Combine(productPath, fileName), FileMode.Create)) {
                         file.CopyTo(fileStream);
                     }
                     productVM.Product.ImageUrl = @"\images\product\" + fileName; 
                 }
-                _unitOfWork.Product.Add(productVM.Product);
+                // if the id is 0 then its an add if not its an update. 
+
+                if (productVM.Product.Id == 0)
+                {
+                    _unitOfWork.Product.Add(productVM.Product);
+                }
+                else {
+                    _unitOfWork.Product.Update(productVM.Product);
+                }
+             
                 _unitOfWork.Save();
                 TempData["success"] = "Product Created successfully";
                 return RedirectToAction("Index");

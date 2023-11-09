@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Vf62VXxwFkCXRLzeF+uekat3S6OZGvUiaTQVahrEGrk=",
+  "Hash": "P7bIZfWuvs+gVhp8yjiez8sL+Rtyb3c7oHGz5YVo7m4=",
   "Source": "RandomStore",
   "BasePath": "_content/RandomStore",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\symon\\OneDrive\\1.1 Projects\\1. Asp.net\\RandomStore\\RandomStore\\wwwroot\\images\\product\\d22db2ee-09a5-4965-8922-ab65a8155cc7.jpg",
+      "Identity": "C:\\Users\\symon\\OneDrive\\1.1 Projects\\1. Asp.net\\RandomStore\\RandomStore\\wwwroot\\images\\product\\3ce025b0-4b45-4d84-a916-044040e48089.jpg",
       "SourceId": "RandomStore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\symon\\OneDrive\\1.1 Projects\\1. Asp.net\\RandomStore\\RandomStore\\wwwroot\\",
       "BasePath": "_content/RandomStore",
-      "RelativePath": "images/product/d22db2ee-09a5-4965-8922-ab65a8155cc7.jpg",
+      "RelativePath": "images/product/3ce025b0-4b45-4d84-a916-044040e48089.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,7 +99,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\d22db2ee-09a5-4965-8922-ab65a8155cc7.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\3ce025b0-4b45-4d84-a916-044040e48089.jpg"
     },
     {
       "Identity": "C:\\Users\\symon\\OneDrive\\1.1 Projects\\1. Asp.net\\RandomStore\\RandomStore\\wwwroot\\js\\site.js",

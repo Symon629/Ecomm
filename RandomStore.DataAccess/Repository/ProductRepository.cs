@@ -17,8 +17,26 @@ namespace RandomStore.DataAccess.Repository
             _db = db;
         }
         public void Update(Product obj) {
-            _db.Products.Update(obj);
-        } 
+            
+            var objcFromDb = _db.Products.FirstOrDefault(u => u.Id == obj.Id);
+            if (objcFromDb != null) {
+                objcFromDb.Title = obj.Title;
+                objcFromDb.ISBN = obj.ISBN;
+                objcFromDb.Price = obj.Price;
+                objcFromDb.Price50 = obj.Price;
+                objcFromDb.ListPrice = obj.ListPrice;
+                objcFromDb.Price100 = obj.Price100;
+                objcFromDb.Description = obj.Description;
+                objcFromDb.CategoryId = obj.CategoryId;
+                objcFromDb.Author = obj.Author;
+                if (obj.ImageUrl != null) {
+                    objcFromDb.ImageUrl = obj.ImageUrl;
+                }
+            }
+
+        }
+
+        
 
     }
 }
